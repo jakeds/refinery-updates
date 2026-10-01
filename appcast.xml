@@ -3,6 +3,17 @@
     <channel>
         <title>Refinery</title>
         <item>
+            <title>0.3.50</title>
+            <pubDate>Thu, 01 Oct 2026 16:22:52 +0100</pubDate>
+            <link>https://github.com/jakeds/refinery-updates/releases/latest</link>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>0.3.50</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/jakeds/refinery-updates/main/Refinery-0.3.50-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jakeds/refinery-updates/releases/download/v0.3.50/Refinery-0.3.50-macOS.zip" length="5531276" type="application/octet-stream" sparkle:edSignature="A7ZC9d7NKs+himLhswWr/pDW9oR/ao7QNBB4uwx9UrgCOrCIWEjHsHrSvOJZXhctcwLcEHbdGCLTZL+l4I1SBA=="/>
+        </item>
+        <item>
             <title>0.3.49</title>
             <pubDate>Thu, 01 Oct 2026 16:01:40 +0100</pubDate>
             <link>https://github.com/jakeds/refinery-updates/releases/latest</link>
@@ -23,17 +34,6 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/jakeds/refinery-updates/main/Refinery-0.3.48-macOS.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/jakeds/refinery-updates/releases/download/v0.3.48/Refinery-0.3.48-macOS.zip" length="5494709" type="application/octet-stream" sparkle:edSignature="IyFf1OTFo8Lqas7v88wX6osX4hc7U1quHSyzxC4WGEu7pidKakZNpCWrrdcEaLHf8pc57DodEGc6ZGUgjy2CAg=="/>
-        </item>
-        <item>
-            <title>0.3.47</title>
-            <pubDate>Thu, 01 Oct 2026 15:25:09 +0100</pubDate>
-            <link>https://github.com/jakeds/refinery-updates/releases/latest</link>
-            <sparkle:version>57</sparkle:version>
-            <sparkle:shortVersionString>0.3.47</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/jakeds/refinery-updates/main/Refinery-0.3.47-macOS.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jakeds/refinery-updates/releases/download/v0.3.47/Refinery-0.3.47-macOS.zip" length="5488161" type="application/octet-stream" sparkle:edSignature="3zODW6BlOQQzpekHe0p6Ak/8Y/f/yB3fD5+MX3atmHd7ehm6U0CRS2cZ2BVkZAM7n6yNT1F1IyOb4GeaFfgQAA=="/>
         </item>
     </channel>
 </rss>
