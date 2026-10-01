@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Refinery</title>
+        <item>
+            <title>0.3.37</title>
+            <pubDate>Thu, 01 Oct 2026 12:50:36 +0100</pubDate>
+            <link>https://github.com/jakeds/refinery-updates/releases/latest</link>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>0.3.37</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/jakeds/refinery-updates/main/Refinery-0.3.37-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jakeds/refinery-updates/releases/download/v0.3.37/Refinery-0.3.37-macOS.zip" length="5419441" type="application/octet-stream" sparkle:edSignature="r/O2TBpQ9ozgevjK9Wa+XaYV1YIRBALSHLRWP4MWWc/eNzNCwOR83Oo47ReoEj5l9HJdpeO3LkYGR0RTLIj6AQ=="/>
+        </item>
+    </channel>
+</rss>
